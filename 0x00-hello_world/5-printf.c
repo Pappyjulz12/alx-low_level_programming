@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-
 /**
- * main - prints "with proper grammar, but the outcome is a piece of art," followed by newline
+ * main - prints "with proper grammar, but the outcome is a piece of art,"
  * Retuen: Always 0.
  *
  */
